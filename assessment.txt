@@ -1,0 +1,58 @@
+Please place a * in each box at the start of each line to indicate if you completed this task
+
+[Y] Does it compile with mvn compile?
+[Y] Does it run with mvn javafx:run?
+[Y] play a piece in a valid location
+[Y] Reject a piece in an invalid location
+[Y] A new random piece each time
+[Y] Lines are cleared
+[Y] Score, Level, Lives shown in the UI
+[Y] Scoring works
+[Y] Multiplier works
+[Y] Level works
+[Y] Background music
+[Y] Menu screen present and functioning
+[Y] Menu screen uses animations and visual effects
+[Y] Menu screen works
+[Y] Instructions screen
+[Y] Instructions screen shows blocks
+[Y] Challenge screen shows current piece
+[Y] Current piece updates on play
+[Y] Escape navigates back
+[Y] Challenge screen shows next piece
+[Y] Piece can be rotated
+[Y] Piece can be swapped
+[Y] Sound effects added
+[Y] Keyboard support for move and drop
+[y] Blocks are not just coloured squares
+[y] Placement circle shown on current piece
+[y] Blocks are placed on their centre
+[y] Hover effect on blocks
+[y] Fade out effect when blocks cleared
+[y] Countdown shown in UI
+[y] Countdown animates
+[y] Countdown changes when time nearly out
+[y] Life lost and new piece when timer expires
+[y] Game over when no more lives left
+[y] Game goes to Scores screen on Game Over
+[y] Scores read from file
+[y] Scores saved to file
+[y] New score prompts for name
+[y] New score inserted into score list
+[y] High Score to beat shown in Challenge screen
+[y] Online scores shown in Score screen
+[y] Lobby updates games as new ones created
+[y] Can create a game
+[y] Can join a game
+[y] Can send a chat message
+[y] Can receive a chat message
+[y] Can start a game (if host)
+[y] Game starts when not host
+[y] Error states handled
+[y] Can play a multiplayer game with a friend/second client
+[y] Scores update during multiplayer game
+[y] Eliminated players shown during multiplayer game
+[y] Scores shows multiplayer game scores
+[M] Good level of challenge, number of extensions, technical achievement
+[y] Code is commented with javadoc and line comments and of good quality and structure
+[y] Clear understanding of code and application demonstrated in video
