@@ -5,6 +5,8 @@
 
 Uos - COMP1206 - Programming 2
 
+[CW Specification.pdf](https://github.com/shockylove/COMP1206-Programming-2/files/10574517/CW.Specification.pdf)
+
 The game is developed and managed using JavaFX and Maven.
 
 * [Game Introduction](#game-introduction)
@@ -69,4 +71,6 @@ The game is developed and managed using JavaFX and Maven.
 ## Video Presentation
 
 https://user-images.githubusercontent.com/93628439/216355323-87316a79-ea93-4602-81e4-a56d2b6bb579.mp4
+
+
 
